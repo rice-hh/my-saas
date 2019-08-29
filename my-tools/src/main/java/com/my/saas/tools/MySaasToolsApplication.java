@@ -1,13 +1,13 @@
-package com.my.saas.tools.mytools;
+package com.my.saas.tools;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyToolsApplication {
+public class MySaasToolsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyToolsApplication.class, args);
+        SpringApplication.run(MySaasToolsApplication.class, args);
     }
 
 }

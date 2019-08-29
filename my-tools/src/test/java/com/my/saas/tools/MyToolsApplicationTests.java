@@ -1,4 +1,4 @@
-package com.my.saas.system.mysystem;
+package com.my.saas.tools;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MySystemApplicationTests {
+public class MyToolsApplicationTests {
 
     @Test
     public void contextLoads() {
